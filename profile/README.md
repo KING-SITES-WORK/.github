@@ -3,7 +3,7 @@
 
 ## Sobre a King Site Works
 
-**King Site Works** é uma empresa especializada em criar e desenvolver sites modernos e personalizados para clientes de diversos setores. Nossa missão é proporcionar soluções digitais de alta qualidade que atendam às necessidades específicas de cada cliente, ajudando-os a se destacar no ambiente online.
+**Somos** uma empresa especializada em criar e desenvolver sites modernos e personalizados para clientes de diversos setores. Nossa missão é proporcionar soluções digitais de alta qualidade que atendam às necessidades específicas de cada cliente, ajudando-os a se destacar no ambiente online.
 
 ### O Que Fazemos
 
